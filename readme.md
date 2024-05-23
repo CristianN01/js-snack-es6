@@ -36,3 +36,9 @@ Id  Name                Grades
 
 > N.B.
 > Questo esercizio deve essere completato entro la mattinata di domani
+
+<!-- SCOMPONIAMO IL PRIMO PROBLEMA IN MICROPROBLEMI -->
+
+1 Creo un array dove inserisco i nomi degli ospiti, il loro tavolo ed il posto occupato da esso.
+2 creo un ciclo per filtrare gli invitati in base in base al loro posto.
+3 stampo in console la lista con i segna posti.
