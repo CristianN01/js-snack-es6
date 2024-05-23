@@ -35,3 +35,9 @@ const aula = [
         Grades :'84',
     },
 ]
+
+const upperAula = aula.map((name) => {
+    return name.Name.toUpperCase()
+});
+
+console.log (upperAula);
