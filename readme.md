@@ -20,7 +20,8 @@ SNACK 2
 
 > 2. Dobbiamo creare una lista di tutti gli studenti che hanno un totale di voti superiore a 70
 
-> 3. Dobbiamo creare una lista di tutti gli studenti che hanno un totale di voti superiore a 70 e id superiore a 120Buon pomeriggio e buon lavoro !!! 
+> 3. Dobbiamo creare una lista di tutti gli studenti che hanno un totale di voti superiore a 70 e id superiore a 120
+Buon pomeriggio e buon lavoro !!! 
 
 Questo è l'elenco degli studenti:
 
@@ -42,3 +43,8 @@ Id  Name                Grades
 1 Creo un array dove inserisco i nomi degli ospiti, il loro tavolo ed il posto occupato da esso.
 2 creo un ciclo per filtrare gli invitati in base in base al loro posto.
 3 stampo in console la lista con i segna posti.
+
+<!-- SCOMPONIAMO IL SECONDO PROBLEMA IN MICROPROBLEMI -->
+
+1 creo un array di oggetti che rappresenta la mia aula, con tutti gli studenti, con le loro proprieta tra cui l`id, il nome, e i loro voti(grades).
+2 creo un ciclo filter che filtra gli studenti in base ai loro voti( sopra il 70) e li assegna ad un altra lista, poi gli sstudenti che hanno i voti superiori a 70 e l`id sopra il 120.
