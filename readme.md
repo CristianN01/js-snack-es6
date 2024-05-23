@@ -47,4 +47,5 @@ Id  Name                Grades
 <!-- SCOMPONIAMO IL SECONDO PROBLEMA IN MICROPROBLEMI -->
 
 1 creo un array di oggetti che rappresenta la mia aula, con tutti gli studenti, con le loro proprieta tra cui l`id, il nome, e i loro voti(grades).
-2 creo un ciclo filter che filtra gli studenti in base ai loro voti( sopra il 70) e li assegna ad un altra lista, poi gli sstudenti che hanno i voti superiori a 70 e l`id sopra il 120.
+2 traformo la mia array con i nomi in minuscolo in un array con i nomi tutto in maiuscolo.
+3 creo un ciclo filter che filtra gli studenti in base ai loro voti( sopra il 70) e li assegna ad un altra lista, poi gli sstudenti che hanno i voti superiori a 70 e l`id sopra il 120.
