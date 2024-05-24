@@ -63,3 +63,7 @@ Nome sarà l’unica proprietà da compilare, le altre saranno tutte settate a 0
 Generare numeri random al posto degli 0 nelle proprietà: punti fatti e falli subiti.
 
 Infine usando la destrutturazione creiamo un nuovo array i cui elementi contengono solo nomi e falli subiti e stampiamo tutto in console.
+
+<!-- SCOMPONIAMO IL PRIMO PROBLEMA SNACK-3 -->
+1 creo un array di oggetti (bici), con le varie proprieta (nome e peso).
+2 stampare in console con laiuto di desctructing e template literal le varie bici.
