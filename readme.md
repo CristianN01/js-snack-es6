@@ -67,3 +67,9 @@ Infine usando la destrutturazione creiamo un nuovo array i cui elementi contengo
 <!-- SCOMPONIAMO IL PRIMO PROBLEMA SNACK-3 -->
 1 creo un array di oggetti (bici), con le varie proprieta (nome e peso).
 2 stampare in console con laiuto di desctructing e template literal le varie bici.
+
+<!-- SCOMPONIAMO IL SECONDO PROBLEMA SNACK 4 -->
+
+1 creo un array di oggetti con dentro le mie squadre di calcio con il loro nome e le loro proprieta.
+2 creo una funzione cghe generi per le loro proprieta un numero randomico, selezionando le proprieta(punti fatti, falli subiti.)
+3 infine stampo in console con la destrutturazione un nuovo array contenente solo i nomi e i falli subiti.
