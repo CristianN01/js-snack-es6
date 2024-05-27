@@ -39,4 +39,10 @@ const squadreDiCalcioNumbers = squadreNomi.map(nome => ({
   falliSubiti: getRandomNumber(0, 50)
 }));
 
+const squadreNomiFalli = squadreDiCalcioNumbers.map(({ nome, falliSubiti }) => ({
+    nome,
+    falliSubiti
+  }));
+
 console.log(squadreDiCalcioNumbers);
+console.log(squadreNomiFalli);
